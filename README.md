@@ -22,4 +22,4 @@ The objective of this project is to develop **AM**, a Jarvis-like AI assistant, 
 This is a personal project, but contributions are welcome! If you have ideas to improve AM or add new AI features, feel free to submit a pull request.
 
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
