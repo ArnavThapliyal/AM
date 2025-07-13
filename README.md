@@ -4,7 +4,11 @@
 
 # Problen that it will solve
 Organization  
-Software Trello, Asana, Atlassian, etc. etc. there are a lot of there but I find then to be pretty useless in practice, so I want to develope somthing that I will use to organise my plans.
+Software like Trello, Asana, Atlassian, etc. etc. exist but I find then to be pretty useless in practice, so I want to develope somthing that I will use to organise my plans.
+
+# Core Psychology
+I believe why I fale at prioritizing projects is not because I stuck at it, that may be partially true but I if I can have a app  
+
 
 ## 🧑‍💻 Goal
 The objective of this project is to develop **AM**, a Jarvis-like software assistant, with the goal of having an MVP ready within **2 years** (May 2025 - May 2026).
