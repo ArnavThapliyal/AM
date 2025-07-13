@@ -3,7 +3,7 @@
 (*I think, therefore I am*)
 
 # Problen that it will solve
-Organization
+Organization  
 Software Trello, Asana, Atlassian, etc. etc. there are a lot of there but I find then to be pretty useless in practice, so I want to develope somthing that I will use to organise my plans.
 
 ## 🧑‍💻 Goal
