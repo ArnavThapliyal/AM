@@ -2,6 +2,10 @@
 **Cogito, ergo sum**  
 (*I think, therefore I am*)
 
+# Problen that it will solve
+Organization
+Software Trello, Asana, Atlassian, etc. etc. there are a lot of there but I find then to be pretty useless in practice, so I want to develope somthing that I will use to organise my plans.
+
 ## 🧑‍💻 Goal
 The objective of this project is to develop **AM**, a Jarvis-like AI assistant, with the goal of having an MVP ready within **2 years** (May 2025 - May 2026).
 
