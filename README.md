@@ -7,7 +7,7 @@ Organization
 Software Trello, Asana, Atlassian, etc. etc. there are a lot of there but I find then to be pretty useless in practice, so I want to develope somthing that I will use to organise my plans.
 
 ## 🧑‍💻 Goal
-The objective of this project is to develop **AM**, a Jarvis-like AI assistant, with the goal of having an MVP ready within **2 years** (May 2025 - May 2026).
+The objective of this project is to develop **AM**, a Jarvis-like software assistant, with the goal of having an MVP ready within **2 years** (May 2025 - May 2026).
 
 ### **Capabilities in the 2-Year Time Frame:**
 - **Core AI Agents**: Build intelligent agents that can automate tasks, manage reminders, control smart devices, and respond to user commands.
